@@ -1,0 +1,9 @@
+TOPICS,TITLE,RESOURCES,,
+1,Relational databases.,https://youtu.be/OqjJjpjDRLc?si=oaHNgYPcpc8Ol7v2,,
+2,"Basic Queries( SELECT, WHERE LIKE, DISTINCT, BETWEEN, GROUP BY, ORDER 
+BY)",SQL Tutorial,,
+3,"Advanced queries( CTE, Subqueries, Window Functions )",https://www.w3schools.blog/sql-cte-how-to-master-it-with-easy-examples,https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php#google_vignette,https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet
+4,Joins,SQL Tutorial,,
+5,MYsql playlist,https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl,,
+,,,,
+,SQL INTERVIEW QUESTIONS,https://www.datacamp.com/blog/top-sql-interview-questions-and-answers-for-beginners-and-intermediate-practitioners,,
